@@ -1,5 +1,5 @@
 # AppcolorConverter
-Aplicativo converte cores rgb para hexadecimal,utilizei o componente slider para a definição do valor de cada cor
+Aplicativo converte cores rgb para hexadecimal desenvolvido com React Native,utilizei o componente slider para a definição do valor de cada cor
  
 ## Technology 
  
